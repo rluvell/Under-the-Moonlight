@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageRef_1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5419729062710260362
+  m_GuidHigh: 486245456785142199
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4965830060648586103
+      m_GuidHigh: 10788771771411609534
+    m_SerializedTextureGuid:
+      m_GuidLow: 3748758829002525322
+      m_GuidHigh: 16913086386901494490
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AR Marker_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5602506539761429429
+      m_GuidHigh: 4094400722799658430
+    m_SerializedTextureGuid:
+      m_GuidLow: 14179473032498550573
+      m_GuidHigh: 14175769660969663513
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AR Marker_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4850990102330299911
+      m_GuidHigh: 17833297298905954737
+    m_SerializedTextureGuid:
+      m_GuidLow: 2612044239999064345
+      m_GuidHigh: 10290697216851577097
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AR Marker_3
+    m_Texture: {fileID: 0}
